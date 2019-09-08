@@ -2,7 +2,7 @@
 
 Write the output (true / false) next to the comparision done below.
 ```js
-"hello world" === "hello world"; // Output true
+"hello world" === "hello world";  true
 
 "hello world" == "hello world"; true
 

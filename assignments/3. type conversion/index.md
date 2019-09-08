@@ -34,4 +34,5 @@ var x = 10 + "1";
 console.log(x);
 typeof x;
 ```
-number
+101
+string
